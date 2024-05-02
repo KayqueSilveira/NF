@@ -46,7 +46,6 @@
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.github.luben:zstd-jni:1.5.5-1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.lz4:lz4-java:1.8.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.xerial.snappy:snappy-java:1.1.10.5" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:2.0.13" level="project" />
     <orderEntry type="library" name="Maven: io.micrometer:micrometer-observation:1.12.5" level="project" />
     <orderEntry type="library" name="Maven: io.micrometer:micrometer-commons:1.12.5" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.google.code.findbugs:jsr305:3.0.2" level="project" />
@@ -105,21 +104,20 @@
     <orderEntry type="library" name="Maven: org.springframework.data:spring-data-commons:3.2.5" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-orm:6.1.6" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aspects:6.1.6" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:itext-core:8.0.3" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:barcodes:8.0.3" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:font-asian:8.0.3" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:forms:8.0.3" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:hyph:8.0.3" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:io:8.0.3" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:commons:8.0.3" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:kernel:8.0.3" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:layout:8.0.3" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:pdfa:8.0.3" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:sign:8.0.3" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:styled-xml-parser:8.0.3" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:svg:8.0.3" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:bouncy-castle-connector:8.0.3" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:pdfua:8.0.3" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:barcodes:7.1.16" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:font-asian:7.1.16" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:forms:7.1.16" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:hyph:7.1.16" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:io:7.1.16" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:kernel:7.1.16" level="project" />
+    <orderEntry type="library" name="Maven: org.bouncycastle:bcpkix-jdk15on:1.68" level="project" />
+    <orderEntry type="library" name="Maven: org.bouncycastle:bcprov-jdk15on:1.68" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:sign:7.1.16" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:styled-xml-parser:7.1.16" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:svg:7.1.16" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:layout:7.1.16" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:2.0.13" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:pdfa:7.1.16" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.kafka:spring-kafka-test:3.1.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.zookeeper:zookeeper:3.8.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.zookeeper:zookeeper-jute:3.8.4" level="project" />

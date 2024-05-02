@@ -1,7 +1,7 @@
 package com.alpe.nf.service;
 
 
-import com.alpe.nf.application.config.KafkaProducer;
+import com.alpe.nf.config.KafkaProducer;
 import com.alpe.nf.entity.NotaFiscal;
 import com.alpe.nf.service.usecase.ExtrairDadosNotaFiscalUseCase;
 import com.alpe.nf.service.usecase.SalvarNotaFiscalUseCase;

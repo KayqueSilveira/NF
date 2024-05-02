@@ -1,0 +1,17 @@
+C:\Users\kayqu\OneDrive\Documentos\workspace\NF\nf\src\main\java\com\alpe\nf\exception\ValidacaoException.java
+C:\Users\kayqu\OneDrive\Documentos\workspace\NF\nf\src\main\java\com\alpe\nf\controller\NotaFiscalController.java
+C:\Users\kayqu\OneDrive\Documentos\workspace\NF\nf\src\main\java\com\alpe\nf\repository\NotaFiscalRepository.java
+C:\Users\kayqu\OneDrive\Documentos\workspace\NF\nf\src\main\java\com\alpe\nf\application\NfApplication.java
+C:\Users\kayqu\OneDrive\Documentos\workspace\NF\nf\src\main\java\com\alpe\nf\exception\ExtracaoDadosException.java
+C:\Users\kayqu\OneDrive\Documentos\workspace\NF\nf\src\main\java\com\alpe\nf\util\ExtracaoDadosUtils.java
+C:\Users\kayqu\OneDrive\Documentos\workspace\NF\nf\src\main\java\com\alpe\nf\entity\NotaFiscal.java
+C:\Users\kayqu\OneDrive\Documentos\workspace\NF\nf\src\main\java\com\alpe\nf\repository\ClienteRepository.java
+C:\Users\kayqu\OneDrive\Documentos\workspace\NF\nf\src\main\java\com\alpe\nf\service\NotaFiscalService.java
+C:\Users\kayqu\OneDrive\Documentos\workspace\NF\nf\src\main\java\com\alpe\nf\entity\Cliente.java
+C:\Users\kayqu\OneDrive\Documentos\workspace\NF\nf\src\main\java\com\alpe\nf\exception\NotaFiscalNotFoundException.java
+C:\Users\kayqu\OneDrive\Documentos\workspace\NF\nf\src\main\java\com\alpe\nf\service\usecase\ExtrairDadosNotaFiscalUseCase.java
+C:\Users\kayqu\OneDrive\Documentos\workspace\NF\nf\src\main\java\com\alpe\nf\application\config\KafkaProducer.java
+C:\Users\kayqu\OneDrive\Documentos\workspace\NF\nf\src\main\java\com\alpe\nf\application\config\KafkaConfig.java
+C:\Users\kayqu\OneDrive\Documentos\workspace\NF\nf\src\main\java\com\alpe\nf\controller\TesteController.java
+C:\Users\kayqu\OneDrive\Documentos\workspace\NF\nf\src\main\java\com\alpe\nf\entity\Boleto.java
+C:\Users\kayqu\OneDrive\Documentos\workspace\NF\nf\src\main\java\com\alpe\nf\service\usecase\SalvarNotaFiscalUseCase.java
