@@ -15,6 +15,7 @@ com\alpe\nf\NfApplication.class
 com\alpe\nf\config\KafkaProducer.class
 com\alpe\nf\adapter\service\UserDetailsServiceImpl.class
 com\alpe\nf\adapter\service\AuthenticationService.class
+com\alpe\nf\config\AwsConfig.class
 com\alpe\nf\entity\NotaFiscal.class
 com\alpe\nf\entity\User.class
 com\alpe\nf\usecase\ExtrairDadosNotaFiscalUseCase.class

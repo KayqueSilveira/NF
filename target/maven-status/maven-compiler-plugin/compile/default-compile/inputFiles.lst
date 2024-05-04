@@ -5,6 +5,7 @@ C:\Users\kayqu\OneDrive\Documentos\workspace\NF\src\main\java\com\alpe\nf\usecas
 C:\Users\kayqu\OneDrive\Documentos\workspace\NF\src\main\java\com\alpe\nf\usecase\SalvarNotaFiscalUseCase.java
 C:\Users\kayqu\OneDrive\Documentos\workspace\NF\src\main\java\com\alpe\nf\config\security\SecurityConfig.java
 C:\Users\kayqu\OneDrive\Documentos\workspace\NF\src\main\java\com\alpe\nf\adapter\repository\ClienteRepository.java
+C:\Users\kayqu\OneDrive\Documentos\workspace\NF\src\main\java\com\alpe\nf\config\AwsConfig.java
 C:\Users\kayqu\OneDrive\Documentos\workspace\NF\src\main\java\com\alpe\nf\config\KafkaProducer.java
 C:\Users\kayqu\OneDrive\Documentos\workspace\NF\src\main\java\com\alpe\nf\adapter\service\JwtService.java
 C:\Users\kayqu\OneDrive\Documentos\workspace\NF\src\main\java\com\alpe\nf\entity\NotaFiscal.java

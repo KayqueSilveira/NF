@@ -9,4 +9,5 @@ public class NfApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(NfApplication.class, args);
 	}
+
 }
