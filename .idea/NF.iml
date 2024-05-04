@@ -223,5 +223,7 @@
     <orderEntry type="library" name="Maven: software.amazon.awssdk:secretsmanager:2.21.44" level="project" />
     <orderEntry type="library" name="Maven: software.amazon.awssdk:aws-json-protocol:2.21.44" level="project" />
     <orderEntry type="library" name="Maven: com.mysql:mysql-connector-j:8.0.33" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.13.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:2.2" level="project" />
   </component>
 </module>

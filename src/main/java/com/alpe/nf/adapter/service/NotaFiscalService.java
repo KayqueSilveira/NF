@@ -13,12 +13,14 @@ public class NotaFiscalService {
 
     private final ExtrairDadosNotaFiscalUseCase extrairDadosNotaFiscalUseCase;
     private final SalvarNotaFiscalUseCase salvarNotaFiscalUseCase;
+    private final CobrancaService cobrancaService;
     private final KafkaProducer kafkaProducer;
 
     @Autowired
-    public NotaFiscalService(ExtrairDadosNotaFiscalUseCase extrairDadosNotaFiscalUseCase, SalvarNotaFiscalUseCase salvarNotaFiscalUseCase, KafkaProducer kafkaProducer) {
+    public NotaFiscalService(ExtrairDadosNotaFiscalUseCase extrairDadosNotaFiscalUseCase, SalvarNotaFiscalUseCase salvarNotaFiscalUseCase, CobrancaService cobrancaService, KafkaProducer kafkaProducer) {
         this.extrairDadosNotaFiscalUseCase = extrairDadosNotaFiscalUseCase;
         this.salvarNotaFiscalUseCase = salvarNotaFiscalUseCase;
+        this.cobrancaService = cobrancaService;
         this.kafkaProducer = kafkaProducer;
     }
 
@@ -26,6 +28,7 @@ public class NotaFiscalService {
         NotaFiscal notaFiscal = extrairDadosNotaFiscalUseCase.extrairDadosNotaFiscal(file);
         salvarNotaFiscalUseCase.salvarNotaFiscal(notaFiscal);
         kafkaProducer.enviarMensagem(notaFiscal);
+        cobrancaService.processarCobranca(notaFiscal);
         return notaFiscal;
     }
 }

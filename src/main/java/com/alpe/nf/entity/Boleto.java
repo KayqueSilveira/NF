@@ -39,4 +39,18 @@ public class Boleto {
             document.close();
         }
     }
+
+    public static void main(String[] args) throws FileNotFoundException {
+        Boleto boleto = Boleto.builder()
+                .beneficiario("Banco teste")
+                .pagador("cliente x")
+                .valor(1298.64)
+                .dataVencimento("30/04/2024")
+                .codigoBoleto("2")
+                .cpf_Cnpj("000.000.000-00")
+                .endereco("Rua x")
+                .build();
+
+        boleto.salvarEmPdf();
+    }
 }

@@ -7,12 +7,14 @@ com\alpe\nf\adapter\repository\ClienteRepository.class
 com\alpe\nf\adapter\service\NotaFiscalService.class
 com\alpe\nf\entity\Cliente.class
 com\alpe\nf\adapter\controller\AuthenticationController.class
+com\alpe\nf\adapter\service\CobrancaService.class
 com\alpe\nf\config\security\SecurityConfig.class
 com\alpe\nf\adapter\controller\NotaFiscalController.class
 com\alpe\nf\adapter\repository\NotaFiscalRepository.class
 com\alpe\nf\entity\UserAuthenticated.class
 com\alpe\nf\NfApplication.class
 com\alpe\nf\config\KafkaProducer.class
+com\alpe\nf\entity\User$UserBuilder.class
 com\alpe\nf\adapter\service\UserDetailsServiceImpl.class
 com\alpe\nf\adapter\service\AuthenticationService.class
 com\alpe\nf\config\AwsConfig.class

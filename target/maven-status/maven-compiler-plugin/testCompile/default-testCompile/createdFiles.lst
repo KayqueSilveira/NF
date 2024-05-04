@@ -1,0 +1,4 @@
+com\alpe\nf\adapter\utils\ExtracaoDadosUtilsTest.class
+com\alpe\nf\usecase\ExtrairDadosNotaFiscalUseCaseTest.class
+com\alpe\nf\adapter\service\NotaFiscalServiceTest.class
+com\alpe\nf\adapter\service\UserDetailsServiceImplTest.class

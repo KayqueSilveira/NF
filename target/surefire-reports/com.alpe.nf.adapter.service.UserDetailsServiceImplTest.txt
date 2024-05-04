@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.alpe.nf.adapter.service.UserDetailsServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.862 s -- in com.alpe.nf.adapter.service.UserDetailsServiceImplTest

@@ -55,7 +55,7 @@ public class ExtrairDadosNotaFiscalUseCase {
         }
     }
 
-    private NotaFiscal extrairDadosNotaFiscalDoArquivo(MultipartFile file) throws IOException {
+    public NotaFiscal extrairDadosNotaFiscalDoArquivo(MultipartFile file) throws IOException {
         try (PDDocument document = PDDocument.load(file.getInputStream())) {
             PDFTextStripper stripper = new PDFTextStripper();
             String pdfText = stripper.getText(document);
